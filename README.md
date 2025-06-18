@@ -1,6 +1,12 @@
 ### Starting
 
+`pip install vkbottle`
+
 `py main.py`
+
+OR
+
+`docker-compose up --build`
 
 ### Config & settings
 
